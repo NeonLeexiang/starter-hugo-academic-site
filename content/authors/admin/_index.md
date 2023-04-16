@@ -1,6 +1,6 @@
 ---
 title: NeonLeexiang 李翔
-role: Professor of Artificial Intelligence
+role: Master Degree of Computer Science
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
